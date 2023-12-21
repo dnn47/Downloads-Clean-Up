@@ -1,0 +1,3 @@
+emailSender = ""
+emailPassword = ""
+emailReceiver = ""
